@@ -1,0 +1,10 @@
+#!/bin/bash
+alias phpstan="$(pwd)/vendor/bin/phpstan"
+alias phpunit="$(pwd)/vendor/phpunit/phpunit/phpunit"
+alias phpmd=$(pwd)"/vendor/phpmd/phpmd/src/bin/phpmd"
+alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222"
+alias psalm="$(pwd)/vendor/bin/psalm"
+alias phpmetrics="$(pwd)/vendor/bin/phpmetrics"
+alias dephend="~/.composer/vendor/bin/dephpend"
+alias dumpDeps="./bin/dumpDeps"
+alias codecept="./vendor/bin/codecept"
